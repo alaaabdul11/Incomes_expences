@@ -97,6 +97,6 @@ python Income_Expense_Tracker.py
 ---
 
 ## Author
-Alaa Abdulrahman – Python Developer
+#Alaa Abdulrahman – Python Developer
 GitHub: https://github.com/alaaabdul11
 
