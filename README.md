@@ -92,7 +92,7 @@ report_YYYY_MM.txt
 2. Open terminal or command prompt.
 3. Run:
 ```bash
-python Income_Expense_Tracker.py
+python income_expense_tracker.py
 ```
 ---
 
