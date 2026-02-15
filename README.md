@@ -53,6 +53,7 @@ This project demonstrates practical Python programming skills including file han
 ---
 
 ## Example Output (Exported Report)
+```
 =============================
 MONTHLY FINANCIAL REPORT
         2026-02
@@ -75,7 +76,7 @@ Freelance   : $ 500.0
 =============================
 Generated on : 2026-02-15 18:44:10
 =============================
-
+```
 ---
 
 ## Project Structure
