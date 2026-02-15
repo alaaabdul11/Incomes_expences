@@ -53,9 +53,9 @@ This project demonstrates practical Python programming skills including file han
 ---
 
 ## Example Output (Exported Report)
--=============================
--MONTHLY FINANCIAL REPORT
- -       2026-02
+=============================
+#MONTHLY FINANCIAL REPORT
+ #       2026-02
 -Total Income : $ 3500.0
 -Total Expenses : $ 2100.0
 
