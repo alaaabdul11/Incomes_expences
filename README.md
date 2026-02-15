@@ -58,22 +58,27 @@ This project demonstrates practical Python programming skills including file han
 MONTHLY FINANCIAL REPORT
 
       2026-02
--Total Income : $ 3500.0
--Total Expenses : $ 2100.0
+      
+Total Income : $ 3500.0
+Total Expenses : $ 2100.0
 
--Savings : $ 1400.0
+Savings : $ 1400.0
 
--=======Expense Breakdown=======
--Food : $ 600.0
--Rent : $1200.0
--Transport : $ 300.0
+=======Expense Breakdown=======
+
+Food : $ 600.0
+
+Rent : $1200.0
+
+Transport : $ 300.0
 
 -=========Income Sources========
--Salary : $3000.0
--Freelance : $ 500.0
+Salary : $3000.0
+
+Freelance : $ 500.0
 
 -=============================
--Generated on : 2026-02-15 18:44:10
+Generated on : 2026-02-15 18:44:10
 
 ---
 
