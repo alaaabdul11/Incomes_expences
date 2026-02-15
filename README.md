@@ -99,5 +99,6 @@ python income_expense_tracker.py
 ## Author
 ```
 Alaa Abdulrahman – Python Developer
-GitHub: https://github.com/alaaabdul11
 ```
+GitHub: https://github.com/alaaabdul11
+
